@@ -1,28 +1,35 @@
-﻿name,seasons,sell_price,crops_per_seed,yields_per_season,seed_price,roi,roi_per_harvest,grow_time,regrow_time,profit_per_day
-Onion,"Spring, Summer",286,1,1,220,66,66,6,,11
-Turnip,Spring,192,1,1,160,32,32,4,,8
-Strawberry,Spring,125,3,1,250,125,125,8,,15.63
-Radish,"Spring, Summer, Autumn",30,4,1,100,20,20,5,,4
-Potato,"Spring, Summer, Winter",42,4,1,120,48,48,6,,8
-Cucumber,Spring,70,3,3,200,430,10,7,4,28.67
-Tea Leaf,"Spring, Summer, Autumn",64,5,1,180,140,140,12,,11.67
-Beans,"Spring, Summer, Autumn",80,3,1,200,40,40,12,,3.33
-Wheat,"Spring, Summer, Autumn",88,5,1,220,220,220,12,,18.33
-Rice,"Spring, Summer, Autumn",83,6,1,250,248,248,14,,17.71
-Pumpkin,Summer,270,1,1,180,90,90,5,,18
-Corn,Summer,242,1,3,220,506,22,8,4,31.63
-Tomato,"Summer, Autumn",91,3,3,250,569,23,6,4,40.64
-Pepper,Summer,102,3,3,280,638,26,7,4,42.53
-Eggplant,"Summer, Autumn",110,3,3,300,690,30,7,4,46
-Green Pepper,"Summer, Autumn",110,4,3,400,920,40,8,5,51.11
-Pineapple,Summer,630,1,1,420,210,210,6,,35
-Melon,"Summer, Autumn",525,1,1,350,175,175,7,,25
-Spinach,Autumn,240,1,1,160,80,80,4,,20
-Carrot,"Autumn, Winter",300,1,1,200,100,100,5,,20
-Sweet Potato,Autumn,384,1,3,320,832,64,7,3,64
-Chili Pepper,Autumn,240,3,1,400,320,320,9,,35.56
-Okra,Autumn,72,4,3,240,624,48,8,,
-Zucchini,Summer,160,1,1,160,,,8,,
-Red Pepper,"Summer, Autumn",110,4,3,400,920,40,8,5,51.11
-Fodder,"Spring, Summer, Autumn",0,2,6,100,,,5,4,
-,,,,,,,,,,
+﻿name,seasons,sell_price,crops_per_seed,yields_per_season,seed_price,grow_time,regrow_time
+Beans,"Spring, Summer, Autumn",80,3,1,200,12,
+Bok Choy,"Autumn, Winter",0,1,1,280,,
+Broccoli,"Spring, Winter",120,1,3,300,6,3
+Burdock,Winter,133,3,1,250,,
+Cabbage,"Spring, Winter",448,1,1,320,7,
+Carrot,"Autumn, Winter",300,1,1,200,5,
+Chili Pepper,Autumn,240,3,1,400,9,
+Corn,Summer,242,1,3,220,8,4
+Cucumber,Spring,70,3,3,200,7,4
+Daikon Radish,Winter,234,1,1,180,4,
+Eggplant,"Summer, Autumn",110,3,3,300,7,4
+Fodder,"Spring, Summer, Autumn",20,2,6,100,5,4
+Green Pepper,"Summer, Autumn",110,4,3,400,8,5
+Leek,Winter,200,1,1,500,4,
+Melon,"Summer, Autumn",525,1,1,350,7,
+Napa Cabbage,Winter,0,1,1,340,,
+Okra,Autumn,72,4,1,240,8,
+Onion,"Spring, Summer",286,1,1,220,6,
+Pepper,Summer,102,3,3,280,7,4
+Pineapple,Summer,630,1,1,420,6,
+Potato,"Spring, Summer, Winter",42,4,1,120,6,
+Pumpkin,Summer,270,1,1,180,5,
+Radish,"Spring, Summer, Autumn",30,4,1,100,5,
+Red Pepper,Summer,102,4,3,280,7,4
+Rice,"Spring, Summer, Autumn",83,5,1,250,14,
+Spinach,Autumn,240,1,1,160,4,
+Strawberry,Spring,125,3,1,250,8,
+Sweet Potato,Autumn,384,1,3,320,7,3
+Tea Leaf,"Spring, Summer, Autumn",64,5,1,180,12,
+Tomato,"Summer, Autumn",91,3,3,250,6,4
+Turnip,Spring,192,1,1,160,4,
+Wheat,"Spring, Summer, Autumn",88,5,1,220,12,
+Zucchini,Summer,160,1,1,160,8,
+,,,,,,,
